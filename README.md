@@ -5,7 +5,9 @@ The Link to the DataSet: https://www.kaggle.com/rashikrahmanpritom/heart-attack-
 # Implementation:
 
 -> Checking the type of data, info about the data & conforming that data is about classification data.
+
 -> Visual analysis of the data, knowing the category and count by ploting the barplot of every column given in data set.
+
 -> Model implementation:
    1. Logistic Regression
    2. Naive Bayes
